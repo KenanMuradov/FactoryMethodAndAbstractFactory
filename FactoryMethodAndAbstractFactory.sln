@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{F19CC35A-192F-40FD-A7A1-AEACEA9C16EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureFactory", "FurnitureFactory\FurnitureFactory.csproj", "{FE9B2440-2761-42E0-8BBA-860F76365018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F19CC35A-192F-40FD-A7A1-AEACEA9C16EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19CC35A-192F-40FD-A7A1-AEACEA9C16EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19CC35A-192F-40FD-A7A1-AEACEA9C16EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19CC35A-192F-40FD-A7A1-AEACEA9C16EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9B2440-2761-42E0-8BBA-860F76365018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9B2440-2761-42E0-8BBA-860F76365018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9B2440-2761-42E0-8BBA-860F76365018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9B2440-2761-42E0-8BBA-860F76365018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2215837D-D393-4E5A-BBD9-BED877767551}
+	EndGlobalSection
+EndGlobal
